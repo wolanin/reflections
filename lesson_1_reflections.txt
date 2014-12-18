@@ -22,7 +22,7 @@ files in one commit, while others, like Google Docs, treat each file separately?
     
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    You can view all the commits made by using git log. You can view differences in commits by using git diff. 
 
 How might using version control make you more confident to make changes that
 could break something?
@@ -31,7 +31,7 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    Building something awesome.
 
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
