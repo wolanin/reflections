@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	By entering "git init" you are creating a .git file that is hidden from the file viewer but will contain all the specific metadata for the folder to create your repository.
+
