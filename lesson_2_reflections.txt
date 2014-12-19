@@ -2,3 +2,16 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	By entering "git init" you are creating a .git file that is hidden from the file viewer but will contain all the specific metadata for the folder to create your repository.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The working directory shows which files are in the directory (hidden and not hidden). The repository contains files that have been moved from the working directory to the staging area and lastly to the repository. The files in there can be used to make a commit. The value of having a staging area is that you can manually select which files you want to add to your repository. You may not want to add every files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can compare what's in the staging area with what is in your working directory or repository and make sure that only the logical change you want is in the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	You may want to make slight variations to the master and be experimental about it. In those cases, branches would help you to differentiate which is better or if they are complimentary (ex. A game where you have 3 lives vs a game where you have 2)
+
+ 
