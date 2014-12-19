@@ -12,6 +12,12 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-	You may want to make slight variations to the master and be experimental about it. In those cases, branches would help you to differentiate which is better or if they are complimentary (ex. A game where you have 3 lives vs a game where you have 2)
+	You may want to make slight variations to the master and be experimental about it. In those cases, branches would help you to differentiate which is better or if they are complimentary (ex. A game where you have 3 lives vs a game where you have 2).
 
- 
+How do the diagrams help you visualize the branch structure?
+
+	It makes it easier to see where you are in the process of your build and how to return to the parent if you need to. If you are working on several features it can be difficult to keep in mind without having this.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Three commits combine into one. So it is easier to visualize what the parent of each commit is.
