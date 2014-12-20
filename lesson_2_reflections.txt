@@ -25,3 +25,4 @@ What is the result of merging two branches together? Why do we represent it in t
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
 	Automatic merging saves a lot of time so you don't have to manually inspect every bit of code. The downside is that Git cannot resolve a conflict automatically since it does not know which one is correct.
+
